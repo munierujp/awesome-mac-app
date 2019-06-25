@@ -12,6 +12,7 @@
 * [iTerm2](https://www.iterm2.com/)
 * [Magnet](https://itunes.apple.com/app/id441258766)
 * [Mini Calendar](https://itunes.apple.com/app/id1088779979)
+* [Rocket](https://matthewpalmer.net/rocket/)
 * [Simplenote](https://itunes.apple.com/app/id692867256)
 * [Sketch](https://www.sketch.com/)
 * [Skitch](https://evernote.com/intl/en/products/skitch)
