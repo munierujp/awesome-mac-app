@@ -12,7 +12,6 @@
 * [Google Chrome](https://www.google.com/chrome/)
 * [iTerm2](https://www.iterm2.com/)
 * [Magnet](https://itunes.apple.com/app/id441258766)
-* [Mini Calendar](https://itunes.apple.com/app/id1088779979)
 * [Quick View Calendar](https://apps.apple.com/jp/app/id1087080039)
 * [Rocket](https://matthewpalmer.net/rocket/)
 * [Simplenote](https://itunes.apple.com/app/id692867256)
