@@ -13,6 +13,7 @@
 * [iTerm2](https://www.iterm2.com/)
 * [Magnet](https://itunes.apple.com/app/id441258766)
 * [Quick View Calendar](https://apps.apple.com/jp/app/id1087080039)
+* [QuickShade](https://apps.apple.com/jp/app/id931571202)
 * [Rocket](https://matthewpalmer.net/rocket/)
 * [Simplenote](https://itunes.apple.com/app/id692867256)
 * [Sketch](https://www.sketch.com/)
