@@ -11,6 +11,7 @@
 - [Gifted](https://apps.apple.com/jp/app/gifted/id771955779)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
+- [HyperDock](https://apps.apple.com/jp/app/hyperdock/id449830122)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
 - [iTerm2](https://www.iterm2.com/)
 - [Magnet](https://itunes.apple.com/app/id441258766)
