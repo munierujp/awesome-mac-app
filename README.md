@@ -8,7 +8,7 @@
 - [Editaro](https://editaro.com/)
 - [FileZilla](https://filezilla-project.org/)
 - [FinderPath](https://bahoom.com/finderpath/)
-- [Gifted](https://apps.apple.com/jp/app/gifted/id771955779?mt=12)
+- [Gifted](https://apps.apple.com/jp/app/gifted/id771955779)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
