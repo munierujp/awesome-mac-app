@@ -17,7 +17,6 @@
 - [iTerm2](https://www.iterm2.com/)
 - [Magnet](https://itunes.apple.com/app/id441258766)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
-- [QuickShade](https://itunes.apple.com/app/id931571202)
 - [Rocket](https://matthewpalmer.net/rocket/)
 - [RunCat](https://itunes.apple.com/app/id1429033973)
 - [Simplenote](https://itunes.apple.com/app/id692867256)
