@@ -2,6 +2,7 @@
 - [⌘英かな](https://ei-kana.appspot.com/)
 - [Atom](https://atom.io/)
 - [Backup and Sync](https://www.google.com/intl/en/drive/download/backup-and-sync/)
+- [Battery Stats for AirPods](https://itunes.apple.com/app/id1405763798)
 - [Clipy](https://clipy-app.com/)
 - [Copied](https://itunes.apple.com/app/id1026349850)
 - [Display Menu](https://itunes.apple.com/app/id549083868)
