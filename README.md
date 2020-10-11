@@ -24,3 +24,4 @@
 - [Skitch](https://evernote.com/intl/en/products/skitch)
 - [Snap Camera](https://snapcamera.snapchat.com/)
 - [Table Tool](https://itunes.apple.com/app/id1122008420)
+- [Visual Studio Code](https://code.visualstudio.com/)
