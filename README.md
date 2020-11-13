@@ -17,6 +17,7 @@
 - [HyperSwitch](https://bahoom.com/hyperswitch)
 - [iTerm2](https://www.iterm2.com/)
 - [Magnet](https://itunes.apple.com/app/id441258766)
+- [Numi](https://numi.app/)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
 - [Rocket](https://matthewpalmer.net/rocket/)
 - [RunCat](https://itunes.apple.com/app/id1429033973)
