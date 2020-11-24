@@ -8,7 +8,6 @@
 - [Display Menu](https://itunes.apple.com/app/id549083868)
 - [Editaro](https://editaro.com/)
 - [FinderPath](https://bahoom.com/finderpath/)
-- [Gifted](https://itunes.apple.com/app/id771955779)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [HyperDock](https://itunes.apple.com/app/id449830122)
