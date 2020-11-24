@@ -25,5 +25,6 @@
 - [Table Tool](https://itunes.apple.com/app/id1122008420)
 - [tmpNote](https://itunes.apple.com/app/id1293664761)
 - [The Unarchiver](https://itunes.apple.com/app/id425424353)
+- [TweetShot](https://itunes.apple.com/app/id1227057295)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [VLC](https://www.videolan.org/vlc/)
