@@ -7,7 +7,6 @@
 - [Copied](https://itunes.apple.com/app/id1026349850)
 - [Display Menu](https://itunes.apple.com/app/id549083868)
 - [Editaro](https://editaro.com/)
-- [FileZilla](https://filezilla-project.org/)
 - [FinderPath](https://bahoom.com/finderpath/)
 - [Gifted](https://itunes.apple.com/app/id771955779)
 - [GIMP](https://www.gimp.org/)
