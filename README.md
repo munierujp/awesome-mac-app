@@ -11,6 +11,7 @@
 - [GIFlash](https://itunes.apple.com/app/id1507246566)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
+- [Hidden Bar](https://itunes.apple.com/app/id1452453066)
 - [HyperDock](https://itunes.apple.com/app/id449830122)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
 - [Magnet](https://itunes.apple.com/app/id441258766)
