@@ -20,6 +20,7 @@
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
 - [Rocket](https://matthewpalmer.net/rocket/)
 - [RunCat](https://itunes.apple.com/app/id1429033973)
+- [SecretDesktop](https://itunes.apple.com/app/id1469900735)
 - [Simplenote](https://itunes.apple.com/app/id692867256)
 - [Sketch](https://www.sketch.com/)
 - [Skitch](https://evernote.com/intl/en/products/skitch)
