@@ -8,6 +8,7 @@
 - [DeepL](https://www.deepl.com/ja/app/)
 - [Display Menu](https://itunes.apple.com/app/id549083868)
 - [Editaro](https://editaro.com/)
+- [Fermata](https://github.com/iccir/Fermata)
 - [FinderPath](https://bahoom.com/finderpath/)
 - [GIFlash](https://itunes.apple.com/app/id1507246566)
 - [GIMP](https://www.gimp.org/)
