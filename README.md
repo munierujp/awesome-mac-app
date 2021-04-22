@@ -16,6 +16,7 @@
 - [Hidden Bar](https://itunes.apple.com/app/id1452453066)
 - [HyperDock](https://itunes.apple.com/app/id449830122)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
+- [KeyCastr](https://github.com/keycastr/keycastr)
 - [Magnet](https://itunes.apple.com/app/id441258766)
 - [Numi](https://numi.app/)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
