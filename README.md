@@ -3,7 +3,6 @@
 - [Calculator Pro](https://itunes.apple.com/app/id576215086)
 - [Charger Information](https://github.com/narikei/Charger-Information-for-Mac)
 - [Clipy](https://clipy-app.com/)
-- [Copied](https://itunes.apple.com/app/id1026349850)
 - [DeepL](https://www.deepl.com/ja/app/)
 - [Display Menu](https://itunes.apple.com/app/id549083868)
 - [Editaro](https://editaro.com/)
