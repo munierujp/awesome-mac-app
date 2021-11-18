@@ -1,5 +1,6 @@
 # awesome-mac-app
 
+- [Bartender 4](https://www.macbartender.com/)
 - [Calculator Pro](https://itunes.apple.com/app/id576215086)
 - [Charger Information](https://github.com/narikei/Charger-Information-for-Mac)
 - [Clipy](https://clipy-app.com/)
