@@ -9,6 +9,7 @@
 - [Editaro](https://editaro.com/)
 - [Fermata](https://github.com/iccir/Fermata)
 - [FinderPath](https://bahoom.com/finderpath/)
+- [Fixture in Picture](https://itunes.apple.com/app/id1612993947)
 - [GIFlash](https://itunes.apple.com/app/id1507246566)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
