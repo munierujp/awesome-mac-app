@@ -5,7 +5,6 @@
 - [Clipy](https://clipy-app.com/)
 - [Cloud Battery](https://itunes.apple.com/app/id1481005137)
 - [DeepL](https://www.deepl.com/ja/app/)
-- [Display Menu](https://itunes.apple.com/app/id549083868)
 - [Editaro](https://editaro.com/)
 - [Fermata](https://github.com/iccir/Fermata)
 - [FinderPath](https://bahoom.com/finderpath/)
