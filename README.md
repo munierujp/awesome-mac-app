@@ -33,4 +33,4 @@
 - [TweetShot](https://itunes.apple.com/app/id1227057295)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [VLC](https://www.videolan.org/vlc/)
-- [WattsConnected](https://itunes.apple.com/app/id1639692859?mt=12)
+- [WattsConnected](https://itunes.apple.com/app/id1639692859)
