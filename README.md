@@ -1,6 +1,7 @@
 # awesome-mac-app
 
 - [Bartender 4](https://www.macbartender.com/)
+- [BlackHole](https://existential.audio/blackhole/)
 - [Calculator Pro](https://itunes.apple.com/app/id576215086)
 - [Clipy](https://clipy-app.com/)
 - [Cloud Battery](https://itunes.apple.com/app/id1481005137)
