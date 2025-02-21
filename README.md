@@ -1,5 +1,6 @@
 # awesome-mac-app
 
+- [Animated Image Maker](https://apps.apple.com/us/app/id1507246566)
 - [Bartender 4](https://www.macbartender.com/)
 - [BlackHole](https://existential.audio/blackhole/)
 - [Calculator Pro](https://itunes.apple.com/app/id576215086)
@@ -10,7 +11,6 @@
 - [Fermata](https://github.com/iccir/Fermata)
 - [FinderPath](https://bahoom.com/finderpath/)
 - [Fixture in Picture](https://itunes.apple.com/app/id1612993947)
-- [GIFlash](https://itunes.apple.com/app/id1507246566)
 - [GIMP](https://www.gimp.org/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [HyperDock](https://itunes.apple.com/app/id449830122)
