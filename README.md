@@ -18,6 +18,7 @@
 - [KeyCastr](https://github.com/keycastr/keycastr)
 - [Magnet](https://itunes.apple.com/app/id441258766)
 - [MenubarX](https://apps.apple.com/app/id1575588022)
+- [Nani](https://nani.now/ja)
 - [Numi](https://numi.app/)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
 - [Rocket](https://matthewpalmer.net/rocket/)
