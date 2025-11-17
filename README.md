@@ -21,6 +21,7 @@
 - [Nani](https://nani.now/ja)
 - [Numi](https://numi.app/)
 - [Quick View Calendar](https://itunes.apple.com/app/id1087080039)
+- [Rectangle](https://rectangleapp.com/)
 - [Rocket](https://matthewpalmer.net/rocket/)
 - [RunCat](https://itunes.apple.com/app/id1429033973)
 - [SecretDesktop](https://itunes.apple.com/app/id1469900735)
